@@ -1,5 +1,7 @@
 # efbicrack
 Hanya perikod biasa
+
+
 $ pkg update && pkg upgrade
 
 $ pkg install git
